@@ -3,7 +3,8 @@ description: Welcome to my Website!
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
-theme: cvless
+# theme: cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: Welcome to my Website!
