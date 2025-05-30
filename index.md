@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 <h2 class="section-title-with-icon">
-  <img src="{{ '/assets/files/headset-solid.svg' | relative_url }}" alt="Education" class="heading-icon">
+  <img src="{{ '/assets/files/headset-solid.svg' | relative_url }}" alt="About Me" class="heading-icon">
   About Me
 </h2>
 
@@ -33,7 +33,7 @@ Feel free to explore and reach out if you have any questions or potential collab
 
 
 <h2 class="section-title-with-icon">
-  <img src="{{ '/assets/files/open-book.svg' | relative_url }}" alt="Education" class="heading-icon">
+  <img src="{{ '/assets/files/open-book.svg' | relative_url }}" alt="Selected Pubs" class="heading-icon">
   Selected Publications
 </h2>
 
