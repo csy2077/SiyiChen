@@ -1,6 +1,4 @@
 ---
-layout: home
-title: Home
 ---
 <h2 class="section-title-with-icon">
   <img src="{{ '/assets/files/headset-solid.svg' | relative_url }}" alt="About Me" class="heading-icon">
