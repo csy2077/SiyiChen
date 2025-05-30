@@ -1,0 +1,52 @@
+title: Siyi Chen (陈斯熠)
+description: Welcome to my Website!
+baseurl: ""
+url: https://piazzai.github.io/cvless
+
+theme: cvless
+
+# site settings
+taglong: Welcome to my Website!
+tagshort: Jekyll theme
+cv: true
+
+# author settings
+author:
+  name: Siyi Chen (陈斯熠)
+  email: siyiche@umich.edu
+photo: assets/files/myselfweb.jpg
+address: Foobar Hall 1.23
+phone: +1 234 567 890
+
+# profile links
+profile:
+  # facebook: https://www.facebook.com/username
+  # x: https://x.com/username
+  # mastodon: https://mastodon.social/@username
+  # bluesky: https://bsky.app/profile/username.bsky.social
+  instagram: https://www.instagram.com/csysupergear/
+  linkedin: https://www.linkedin.com/in/%E6%96%AF%E7%86%A0-%E9%99%88-072512308/
+  # xing: https://www.xing.com/profile/username
+  # stackoverflow: https://stackoverflow.com/users/0000000/username
+  # medium: https://medium.com/@username
+  github: https://github.com/csy2077/
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+  - docker-compose.yml
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
